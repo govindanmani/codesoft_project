@@ -1,0 +1,116 @@
+*
+{
+    /* background-color: black; */
+    color: aliceblue;
+    /* color: black; */
+    margin: 0;
+    padding: 0;
+    /* background-image: url("https://www.deakin.edu.au/__data/assets/image/0003/2384157/17357_950x475_computer-science.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; */
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+li
+{
+    padding: 20px;
+    font-size: 25px;
+    margin-right: 10px;
+    font-weight: bolder;
+}
+#name
+{
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 500px;
+    font-weight: 900;
+    font-size: xx-large;
+    font-size: 40px;
+}
+.head
+{
+    width: auto;
+    
+}
+.title
+{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+    align-items: center;
+}
+li:hover
+{
+    color: brown;
+    
+}
+.intro
+{
+    margin-top: 200px;
+    margin-left: 200px;
+    font-size: 30px;
+    align-items: center;
+    /* display: flex; */
+    padding-left: 60px;
+}
+   
+#im
+{
+    
+        right: 20px;
+        /* top:2px; */
+        right: 50px;
+        /* bottom: 200px; */
+        /* left:0;  */
+        /* width: 150px; */
+        /* height: 100%;  */
+         padding-right: 120px;
+        padding-bottom: 20px;
+        position: fixed;
+        margin-bottom: 1000px;
+  
+ }
+ #button
+ {
+     text-align: center;
+     /* padding-right: 200px; */
+     align-items: center;
+     margin-left: 600px;
+    width: 100px;
+    height: 50px;
+    color: black;
+    background-color:brown;
+    border-radius: 20px;
+    font-size: x-large;
+ }
+ #hh
+ {
+    text-align: center;
+ }
+ #hhh
+ {
+    text-align: center;
+ }
+.introo
+{
+    display: flex;
+    height: 900px;
+    text-align: end; 
+    align-items: center;
+    
+     width: 900px; 
+
+}
+.int{
+
+    width: 500px;
+    height: 400px;
+}
+.in{
+     width: 500px;
+     height: 400px;
+}
